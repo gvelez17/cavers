@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@composedb/client": "^0.1.0",
+    "key-did-provider-ed25519": "^2.0.1"
+  }
+}
