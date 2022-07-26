@@ -7,3 +7,7 @@ breadcrumb everything from here
 https://github.com/pawartur/js-pinner-analytics
 
 https://github.com/gvelez17/pinit-bot
+
+also some docs
+
+https://github.com/ceramicstudio/js-composedb/pull/8
