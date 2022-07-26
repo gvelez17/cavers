@@ -8,6 +8,10 @@ https://github.com/pawartur/js-pinner-analytics
 
 https://github.com/gvelez17/pinit-bot
 
+switching to ts bot
+
+https://github.com/gvelez17/pinit-ts
+
 also some docs
 
 https://github.com/ceramicstudio/js-composedb/pull/8
