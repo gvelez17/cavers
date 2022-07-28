@@ -1,0 +1,9 @@
+type Tag @model(
+    accountRelation: LIST,
+    description: "Tags on messages"
+) {
+    tag: String! @length(min:1, max: 256)
+    message_id: String! @length(min:1, max: 256)
+    curator: String @length(min:1, max: 256)
+    context_url: String @length(min:1, max: 1024)
+}

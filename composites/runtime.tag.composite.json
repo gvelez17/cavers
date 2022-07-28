@@ -1,0 +1,1 @@
+{"models":{"Tag":"kjzl6hvfrbw6c96ffak9aod4tdv3ufmbe7ner8hvrq4750g9p38676u6iga7l99"},"objects":{"Tag":{"tag":{"type":"string","required":true},"curator":{"type":"string","required":false},"message_id":{"type":"string","required":true},"context_url":{"type":"string","required":false}}},"accountData":{"tagList":{"type":"connection","name":"Tag"}}}
