@@ -1,0 +1,9 @@
+type SocialLogin @model(
+    accountRelation: LIST,
+    description: "Social logins for this user"
+) {
+    service: String! @length(min:1, max:256)
+    username: String! @length(min:1, max: 256)
+    uri: String @length(min:1, max:1024)
+    active: Boolean
+}
