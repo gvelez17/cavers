@@ -70,13 +70,13 @@ Tags/Highlights uses a 1-many pattern of relations between Messages and Tags, wh
 
 ### Applications
 
-The Discord "Pinit" app uses both TODO and Tag composites with a single DID representing the Discord server
+The Discord "Pinit" app writes both TODO and Tag composites, and can display lists of TODOs with `/todos` command
 
-The TODO app was built on Next.js and uses the TODO composite including Tasks + Messages 
+The TODO app was built on Next.js to read and write the TODO composite including Tasks + Messages 
 
-The Tag app was based on the Notes example app and uses the Tag composite including Tags + Messages
+The Tag app was based on the Notes example app and displays the Tag composite including Tags + Messages
 
-The Analytics app was built on Next.js, and gathers data about all models written by all DIDs
+The Analytics app was built on Next.js, and gathers data about all models and data sources
 
 ### Next steps
 
