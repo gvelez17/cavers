@@ -18,7 +18,7 @@ Use the three dots menu on individual messages to save messages as Todo items or
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/798887/181720588-6942cd0d-f21b-4cf7-9ac9-d0e54212ac19.png">
 
 
-## Tag and Save
+## Tag and Save Highlights
 
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/798887/181720352-97d440ed-c228-45bf-a700-e68bd6dd6cba.png">
 
@@ -36,7 +36,9 @@ Install and run the Todo react app:
 
 https://github.com/stephhuynh18/todo-ceramic
 
-Install and run the Tag react app:
+Install and run the Highlights Tags react app:
+
+https://github.com/stephhuynh18/highlights-hacklisbon
 
 ## Monitor metrics
 
