@@ -80,7 +80,7 @@ The Analytics app was built on Next.js, and gathers data about all models writte
 
 ### Next steps
 
-Currently we share a DID between the apps, the next version would include roles and social login mapping.
+Currently the DID is at the app level, the next version would include logins, roles and social login mapping.
 
 # Feedback
 
