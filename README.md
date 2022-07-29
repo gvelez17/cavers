@@ -54,9 +54,11 @@ Also you may enter a general rating tag on the message [What do you think of our
 
 Suggested improvements can be entered as Todos
 
-Thank you!
+# Thank you!
 
-# Overview & Snippets
+___
+
+### Overview & Snippets
 
 breadcrumbs here:
 
