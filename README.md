@@ -88,7 +88,7 @@ Suggested improvements can be entered as Todos
 
 This was a collaborative effort - the team itself is @stephhuynh18, @pawartur and @gvelez17
 
-Alex, Paul, Sergey, Spencer were extraordinarily helpful in providing bugfixes, support and assistance
+Alex, Paul, Sergey, Spencer were extraordinarily helpful in providing bugfixes and technical support.
 
 Several bugs in js-ceramic were fixed during the course of the hackathon
 
