@@ -108,6 +108,8 @@ breadcrumbs here:
 
 https://github.com/stephhuynh18/todo-ceramic
 
+https://github.com/stephhuynh18/highlights-hacklisbon
+
 https://github.com/pawartur/js-pinner-analytics
 
 https://github.com/gvelez17/pinit-ts
