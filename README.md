@@ -28,9 +28,21 @@ Use the three dots menu on individual messages to save messages as Todo items or
 
 ## View tags, messages and todos on Ceramic
 
+First edit `~/.ceramic/daemon.config.json` and add a section to index the models
+
+```
+"indexing": {
+    "db": "sqlite:///Users/gv/.ceramic/indexing.sqlite",
+    "allow-queries-before-historical-sync": true,
+    "models": ["kjzl6hvfrbw6c9kpm0npnsdkisq40nz4h16ng0d1c2201558ze90xmncxqvc63j","kjzl6hvfrbw6c9qgxh06cls64e9ie190o8c2ykfw04o19eknxptt0rpm2fsehyp","kh4q0kq8h3j3zb52p8gjcayuwrdpt","kjzl6hvfrbw6c7593tlqk3flsfx759pd4z8afuynav1i99nw9zjvn20l99fecta",
+"kjzl6hvfrbw6c7ujre2hujba6tr5b03wsesolmivl6fj661bx8d09u39sypajbc","kjzl6hvfrbw6c5yj6vtu41twqhu93xf49melrv0w2i5r8hrksn16scz1azp53gh", "kjzl6hvfrbw6caekkvglzqzquuutkz00784fxk8sbgm8bhx3pwzmy0ogx666zc5","kjzl6hvfrbw6c96ffak9aod4tdv3ufmbe7ner8hvrq4750g9p38676u6iga7l99"]
+  }
+```
+
 Run Ceramic node with indexing on
 
 `CERAMIC_ENABLE_EXPERIMENTAL_INDEXING='true' node packages/cli/bin/ceramic.js daemon`
+
 
 Install and run the Todo react app:
 
