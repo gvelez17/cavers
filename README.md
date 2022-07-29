@@ -60,19 +60,25 @@ https://github.com/pawartur/js-pinner-analytics
 
 ## Technical Summary
 
+### Data Modelling
+
 We have used two composites with a shared model between them.
 
-The TODO app uses a 1-1 pattern of relations between Messages and Tasks, which is implemented at the application level.
+TODO uses a 1-1 pattern of relations between Messages and Tasks, which is implemented at the application level.
 
-The Tag app uses a 1-many pattern of relations between Messages and Tags, which is implemented at the application level.
+Tags/Highlights uses a 1-many pattern of relations between Messages and Tags, which is implemented at the application level.
 
-The Discord app uses both TODO and Tag composites with a single DID representing the Discord server
+### Applications
 
-The TODO app uses the TODO composite including Tasks + Messages 
+The Discord "Pinit" app uses both TODO and Tag composites with a single DID representing the Discord server
 
-The Tag app uses the Tag composite including Tags + Messages
+The TODO app was built on Next.js and uses the TODO composite including Tasks + Messages 
 
-The Analytics app gathers data about all models written by all DIDs
+The Tag app was based on the Notes example app and uses the Tag composite including Tags + Messages
+
+The Analytics app was built on Next.js, and gathers data about all models written by all DIDs
+
+### Next steps
 
 Currently we share a DID between the apps, the next version would include roles and social login mapping.
 
