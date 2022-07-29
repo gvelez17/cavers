@@ -84,6 +84,14 @@ Also you may enter a general rating tag on the message [What do you think of our
 
 Suggested improvements can be entered as Todos
 
+## Credits
+
+This was a collaborative effort - the team itself is @stephhuynh18, @pawartur and @gvelez17
+
+Alex, Paul, Sergey, Spencer were extraordinarily helpful in providing bugfixes, support and assistance
+
+Several bugs in js-ceramic were fixed during the course of the hackathon
+
 # Thank you!
 
 ___
