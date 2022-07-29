@@ -10,7 +10,7 @@ And use Ceramic from where they already are - such as in Discord!
 
 # Please Join Our Demo!
 
-=====>.  Enter the [Knowledge Xchange Discord Server](https://discord.gg/F4EXQe5G).  <=======
+======>.  Enter the [Knowledge Xchange Discord Server](https://discord.gg/F4EXQe5G).  <======
 
 Use the three dots menu on individual messages to save messages as Todo items or tag them for later
 
